@@ -1,3 +1,4 @@
+<?php
 function nic_lanka($insered_nic) {
   $str = trim($insered_nic);
 
@@ -108,3 +109,4 @@ function es_birthday_calc($nic3)
 
     return $date;
 }
+?>
